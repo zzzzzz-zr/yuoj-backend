@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bbe172c-3014-4c97-9e6f-29807b088ca4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog-internal" />
+  </component>
+  <component name="ProjectId" id="2jwx4HkO97jgy2uCCHBTzbJSnMi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="java.sql.Driver&#10;46fb3c09-a7f1-4a9d-9724-d3291591217c&#10;mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yupi.yuoj.judge" />
+      <recent name="com.yupi.yuoj.judge.codesandbox" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\31870\OneDrive\桌面\java\yuoj-backend\src\main\java\com\yupi\yuoj\model\dto\question" />
+      <recent name="C:\Users\31870\OneDrive\桌面\java\yuoj-backend\src\main\java\com\yupi\yuoj\service\impl" />
+      <recent name="C:\Users\31870\OneDrive\桌面\java\yuoj-backend\src\main\java\com\yupi\yuoj\service" />
+      <recent name="C:\Users\31870\OneDrive\桌面\java\yuoj-backend\src\main\java\com\yupi\yuoj\mapper" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.yupi.yuoj.judge.codesandbox" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yupi.yuoj.judge.strategy" />
+      <recent name="com.yupi.yuoj.judge.codesandbox.impl" />
+      <recent name="com.yupi.yuoj.judge.codesandbox.model" />
+      <recent name="com.yupi.yuoj.model.vo" />
+      <recent name="com.yupi.yuoj.model.dto.questionsubmit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yupi.yuoj.generate.CodeGenerator" />
+      <module name="yuoj-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuoj.generate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeSandboxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yupi.yuoj.judge.codesandbox.CodeSandboxTest" />
+      <module name="yuoj-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuoj.judge.codesandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeSandboxTest.executeCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yuoj-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuoj.judge.codesandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yupi.yuoj.judge.codesandbox" />
+      <option name="MAIN_CLASS_NAME" value="com.yupi.yuoj.judge.codesandbox.CodeSandboxTest" />
+      <option name="METHOD_NAME" value="executeCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeSandboxTest.executeCodeByProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yuoj-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuoj.judge.codesandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yupi.yuoj.judge.codesandbox" />
+      <option name="MAIN_CLASS_NAME" value="com.yupi.yuoj.judge.codesandbox.CodeSandboxTest" />
+      <option name="METHOD_NAME" value="executeCodeByProxy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeSandboxTest.executeCodeByValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yuoj-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuoj.judge.codesandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yupi.yuoj.judge.codesandbox" />
+      <option name="MAIN_CLASS_NAME" value="com.yupi.yuoj.judge.codesandbox.CodeSandboxTest" />
+      <option name="METHOD_NAME" value="executeCodeByValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yuoj-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.yuoj.MainApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeGenerator" />
+      <item itemvalue="Application.CodeSandboxTest" />
+      <item itemvalue="JUnit.CodeSandboxTest.executeCode" />
+      <item itemvalue="JUnit.CodeSandboxTest.executeCodeByValue" />
+      <item itemvalue="JUnit.CodeSandboxTest.executeCodeByProxy" />
+      <item itemvalue="Spring Boot.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CodeSandboxTest.executeCodeByProxy" />
+        <item itemvalue="JUnit.CodeSandboxTest.executeCodeByValue" />
+        <item itemvalue="Application.CodeSandboxTest" />
+        <item itemvalue="JUnit.CodeSandboxTest.executeCode" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bbe172c-3014-4c97-9e6f-29807b088ca4" name="Default Changelist" comment="" />
+      <created>1722311754168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722311754168</updated>
+      <workItem from="1722311758818" duration="599000" />
+      <workItem from="1722314618545" duration="168000" />
+      <workItem from="1722314800696" duration="13815000" />
+      <workItem from="1722476851947" duration="1087000" />
+      <workItem from="1722500162338" duration="1807000" />
+      <workItem from="1722571630631" duration="8268000" />
+      <workItem from="1722744226521" duration="1705000" />
+      <workItem from="1722745965617" duration="10978000" />
+      <workItem from="1722765825304" duration="15724000" />
+      <workItem from="1722912588603" duration="5143000" />
+      <workItem from="1722930933144" duration="20362000" />
+      <workItem from="1723114657125" duration="4711000" />
+      <workItem from="1723169957676" duration="3255000" />
+      <workItem from="1723514629701" duration="7721000" />
+      <workItem from="1723601634918" duration="4804000" />
+      <workItem from="1723678792829" duration="9928000" />
+      <workItem from="1723801055946" duration="20373000" />
+      <workItem from="1723859747114" duration="4531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
