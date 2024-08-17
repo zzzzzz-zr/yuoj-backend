@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bbe172c-3014-4c97-9e6f-29807b088ca4" name="Default Changelist" comment="" />
+    <list default="true" id="4bbe172c-3014-4c97-9e6f-29807b088ca4" name="Default Changelist" comment="oj项目，沙箱待实现版本。" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,8 +216,16 @@
       <workItem from="1723601634918" duration="4804000" />
       <workItem from="1723678792829" duration="9928000" />
       <workItem from="1723801055946" duration="20373000" />
-      <workItem from="1723859747114" duration="4531000" />
+      <workItem from="1723859747114" duration="4890000" />
     </task>
+    <task id="LOCAL-00001" summary="oj项目，沙箱待实现版本。">
+      <created>1723871435760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723871435760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,5 +241,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oj项目，沙箱待实现版本。" />
+    <option name="LAST_COMMIT_MESSAGE" value="oj项目，沙箱待实现版本。" />
   </component>
 </project>
